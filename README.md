@@ -36,6 +36,8 @@ Acesse a pasta do tema desejado.
 
 Explore os conteúdos disponíveis (notebooks, slides, datasets).
 
+----
+
 🤝 Contribuições
 
 Sugestões, correções ou melhorias são sempre bem-vindas!
